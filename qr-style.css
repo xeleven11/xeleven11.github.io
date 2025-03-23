@@ -36,16 +36,16 @@ h1 {
 /*desktop*/
 @media (min-width: 376px) {
   .card {
-    padding: 20px;
-    width: 400px;
+    padding: 1rem;
+    width: 320px;
   }
 
   h1 {
-    font-size: 1.4rem;
+    font-size: 1rem;
   }
 
   p {
-    font-size: 1.1rem;
+    font-size: 0.9rem;
   }
 }
 
@@ -54,7 +54,6 @@ h1 {
   .card {
     padding: 15px;
     width: 75%;
-    font-size: 10px;
   }
 
   h1 {
